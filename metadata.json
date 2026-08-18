@@ -1,0 +1,6 @@
+{
+  "name": "Site Profissional de Psicopedagogia",
+  "description": "Site profissional da Psicopedagoga Sandra Regina Moraes dos Santos com agendamento integrado à Clínica Hope Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
